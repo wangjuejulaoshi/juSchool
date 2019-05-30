@@ -1,0 +1,2 @@
+# juschool
+菊塾
