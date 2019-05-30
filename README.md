@@ -4,7 +4,7 @@
 
 juSchool,Uncle Ju's Homeschool.
 
-homepage：https://s.wangjueju.cn
+homepage：https://s.wangjueju.cn/all-courses
 
 the school will never ever admit any other students besides my two boys.
 
